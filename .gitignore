@@ -1,0 +1,6 @@
+# OS junk (Windows / macOS)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
